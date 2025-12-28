@@ -1,4 +1,4 @@
-# ⭐ Star Pattern Program in Python
+# ⭐ Right Angled Pattern Program
 
 ## 📌 Description
 This program prints a right-angled triangle star pattern based on the number entered by the user.
@@ -20,4 +20,4 @@ for i in range(num):
 ```
 
 ## 📤 Output
-![Output](Pattern_Programs/outputs/right_angled_triangle.png)
+![Output](/outputs/right_angled_triangle.png)
