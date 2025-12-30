@@ -28,4 +28,4 @@ for i in range(num - 1, -1, -1):
 ---
 
 ## 📤 Output
-![Output](/outputs/inverted_right_angled_triangle.png)
+![Output](/outputs/2_inverted_right_angled_triangle.png)

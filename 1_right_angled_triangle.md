@@ -25,4 +25,4 @@ for i in range(num):
 ---
 
 ## 📤 Output
-![Output](/outputs/right_angled_triangle.png)
+![Output](/outputs/1_right_angled_triangle.png)
